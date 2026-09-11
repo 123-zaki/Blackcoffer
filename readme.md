@@ -1,3 +1,12 @@
+## Live Demo
+
+[Live Dashboard](https://blackcoffer-git-main-bit-mans-projects.vercel.app)
+
+## Repository
+
+[GitHub Repository](https://github.com/123-zaki/Blackcoffer)
+
+
 # Blackcoffer Analytics Dashboard
 
 This project is an interactive analytics dashboard built for the Blackcoffer Data Visualization Assignment.
